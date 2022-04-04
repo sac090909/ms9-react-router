@@ -1,8 +1,8 @@
 # Project - Next T-Shirt
 
-## Site Link
+## Site Link [Next T-Shirt](https://github.com/facebook/create-react-app).
 
-[Next T-Shirt](https://github.com/facebook/create-react-app).
+## About the project
 
 - This is a SPA created with react. The project tells about ...........
 - Home page contains the next product and some reviews about the product
