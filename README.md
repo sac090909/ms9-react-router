@@ -1,13 +1,11 @@
 # Project - Next T-Shirt
 
-## Available Scripts
+## Site Link
 
-This project site [Next T-Shirt](https://github.com/facebook/create-react-app).
+[Next T-Shirt](https://github.com/facebook/create-react-app).
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- This is a SPA created with react. The project tells about ...........
+- Home page contains the next product and some reviews about the product
+- Review page shows reviews about the product
+- Dashboard show line chart and bar chart
+- Blogs provides description about some popular topics like Context API, Semantic Element.
