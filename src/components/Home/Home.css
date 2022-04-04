@@ -1,0 +1,15 @@
+.home-section-des {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-gap: 20px;
+}
+
+.home-section-des img {
+  width: 400px;
+  height: 400px;
+}
+
+.home-des {
+  padding-top: 100px;
+  padding-left: 100px;
+}
